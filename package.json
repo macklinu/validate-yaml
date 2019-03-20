@@ -1,0 +1,11 @@
+{
+  "name": "yaml-lint",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "actions-toolkit": "^1.6.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
